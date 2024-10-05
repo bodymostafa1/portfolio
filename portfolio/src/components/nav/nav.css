@@ -1,0 +1,17 @@
+.secondry-bg{
+    background-color: #697565;
+}
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+span:hover {
+    color:#AD49E1;
+    transition: all 0.5s;
+}
+.border-purple{
+    border-color: #AD49E1 !important;
+    border-width: 2px !important;
+    border-style: solid !important; 
+}
