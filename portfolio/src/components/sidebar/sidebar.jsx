@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 
 function Sidebar() {
   return (
-    <div className=' mx-5 px-5 p-2'>
-      <div className='d-flex flex-column border-purple px-4 pt-3 crounded rounded-5 bg-body'>
+    <div className='    '>
+      <div className='d-flex flex-column  px-4 pt-3 crounded rounded-5'>
         <h2 className=' text-capitalize'>important projects</h2>
           <ul>
             <li className='my-1'>

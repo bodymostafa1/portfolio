@@ -1,0 +1,5 @@
+.main-bg{
+    background: rgb(42,0,79) !important;
+    background: linear-gradient(156deg, rgba(42,0,79,1) 27%, rgba(138,43,226,1) 75%) !important ;
+    background-repeat: no-repeat !important; 
+  }

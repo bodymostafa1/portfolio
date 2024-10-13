@@ -1,0 +1,36 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .project-card {
+    background: linear-gradient(45deg, #4b0082, #8a2be2); 
+    border: none;
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    width: 18rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .btn-project {
+    border: none !important;
+    transition: background-color 0.3s ease !important;
+  }
+  
+  .btn-project:hover {
+    color: #4b0082 !important;
+  }
+  .icon-size-xl{
+    font-size: 90px;
+  }
