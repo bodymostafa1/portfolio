@@ -15,7 +15,7 @@ function Projects() {
               <p className="card-text">
                 an e-commerce api done with node.js and mongoose with features such as authorization , authentication and file upload
               </p>
-              <a href="#https://github.com/bodymostafa1/e-commerce" className="btn btn-light btn-project" target='_blank't='_blank'>View Project</a>
+              <a href="https://github.com/bodymostafa1/e-commerce" className="btn btn-light btn-project" target='_blank't='_blank'>View Project</a>
             </div>
           </div>
         </div>
