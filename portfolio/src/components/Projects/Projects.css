@@ -6,7 +6,7 @@
   }
   
   .project-card {
-    background: linear-gradient(45deg, #4b0082, #8a2be2); 
+    background-color: #1B1A32 !important; 
     border: none;
     border-radius: 15px; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
